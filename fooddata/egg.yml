@@ -1,0 +1,224 @@
+# Should verify beta-tocophreol etc. if they aren't included in vitamin E
+
+---
+name: Egg
+vitamins:
+    A:
+        - 176 ug
+        - 12%
+
+    retinol:
+        - 0
+        - 0%
+
+    alpha carotene:
+        - 0
+        - 0%
+
+    beta carotene:
+        - 20 ug
+        - 0%
+
+    beta cryptoxanthin:
+        - 8.8 ug
+        - 0%
+
+    lycopene:
+        - 0
+        - 0%
+
+    lutein plus zeaxanthin:
+        - 438 ug
+        - 0%
+
+    C:
+        - 0
+        - 0%
+
+    E:
+        - 1.2 mg
+        - 6%
+
+    beta tocophreol:
+        - 23 ug
+        - 0%
+
+    gamma tocophreol:
+        - 1.4 mg
+        - 0%
+
+    delta tocophreol:
+        - 378 ug
+        - 0%
+
+    D:
+        - 77 IU
+        - 19%
+
+    K:
+        - 2.9 ug
+        - 0%
+
+    thiamin B1:
+        - 43 ug
+        - 3%
+
+    riboflavin B2:
+        - 431 ug
+        - 25%
+
+    niacin B3:
+        - 70 ug
+        - 0%
+
+    B6:
+        - 145 ug
+        - 7%
+
+    biotin B7:
+        - 0
+        - 0%
+
+    folate B9:
+        - 41 ug
+        - 10%
+
+    folic acid B9:
+        - 0
+        - 0%
+
+    B12:
+        - 0.86 ug
+        - 14%
+
+    panto acid B5:
+        - 1.4 mg
+        - 14%
+
+
+minerals:
+    calcium:
+        - 56 mg
+        - 6%
+
+    iron:
+        - 1.5 mg
+        - 8%
+
+    magnesium:
+        - 11 mg
+        - 3%
+
+    phosphorus:
+        - 183 mg
+        - 18%
+
+    potassium:
+        - 133 mg
+        - 4%
+
+    sodium:
+        - 186 mg
+        - 8%
+
+    zinc:
+        - 1.2 mg
+        - 8%
+
+    copper:
+        - 57 ug
+        - 3%
+
+    manganese:
+        - 26 ug
+        - 0%
+
+    selenium:
+        - 29 ug
+        - 0%
+
+    fluoride:
+        - 5.8 ug
+        - 0%
+
+amino acids:
+    proteins:
+        - 12 g
+        - 24 %
+
+    tryptophan:
+        - 156 mg
+        - 0%
+
+    threonine:
+        - 534 mg
+        - 0%
+
+    isoleucine:
+        - 636 mg
+        - 0%
+
+    leucine:
+        - 1 g
+        - 0%
+
+    lysine:
+        - 855 mg
+        - 0%
+
+    methionine:
+        - 359 mg
+        - 0%
+
+    cystine:
+        - 258 mg
+        - 0%
+
+    phenylalanine:
+        - 638 mg
+        - 0%
+
+    tyrosine:
+        - 475 mg
+        - 0%
+
+    valine:
+        - 790 mg
+        - 0%
+
+    arginine:
+        - 754 mg
+        - 0%
+
+    histidine:
+        - 289 mg
+        - 0%
+
+    alanine:
+        - 682 mg
+        - 0%
+
+    aspartic acid:
+        - 1.2 g
+        - 0%
+
+    glutamic acid:
+        - 1.6 g
+        - 0%
+
+    glycine:
+        - 404 mg
+        - 0%
+
+    proline:
+        - 491 mg
+        - 0%
+
+    serine:
+        - 903 mg
+        - 0%
+
+    hydroxyproline:
+        - 0
+        - 0%
+

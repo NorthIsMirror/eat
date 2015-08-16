@@ -1,0 +1,222 @@
+---
+name: Ham
+vitamins:
+    A:
+        - 0
+        - 0%
+
+    retinol:
+        - 0
+        - 0%
+
+    alpha carotene:
+        - 0
+        - 0%
+
+    beta carotene:
+        - 0
+        - 0%
+
+    beta cryptoxanthin:
+        - 0
+        - 0%
+
+    lycopene:
+        - 0
+        - 0%
+
+    lutein plus zeaxanthin:
+        - 0
+        - 0%
+
+    C:
+        - 1.1 mg
+        - 2%
+
+    E:
+        - 224 ug
+        - 1%
+
+    beta tocophreol:
+        - 0
+        - 0%
+
+    gamma tocophreol:
+        - 0
+        - 0%
+
+    delta tocophreol:
+        - 0
+        - 0%
+
+    D:
+        - 0
+        - 0%
+
+    K:
+        - 0
+        - 0%
+
+    thiamin B1:
+        - 540 ug
+        - 36%
+
+    riboflavin B2:
+        - 184 ug
+        - 11%
+
+    niacin B3:
+        - 3.7 mg
+        - 18%
+
+    B6:
+        - 314 ug
+        - 16%
+
+    biotin B7:
+        - 0
+        - 0%
+
+    folate B9:
+        - 2 ug
+        - 1%
+
+    folic acid B9:
+        - 0
+        - 0%
+
+    B12:
+        - 0.62 ug
+        - 10%
+
+    panto acid B5:
+        - 366 ug
+        - 4%
+
+
+minerals:
+    calcium:
+        - 10 mg
+        - 1%
+
+    iron:
+        - 783 ug
+        - 4%
+
+    magnesium:
+        - 16 mg
+        - 4%
+
+    phosphorus:
+        - 213 mg
+        - 21%
+
+    potassium:
+        - 336 mg
+        - 10%
+
+    sodium:
+        - 1.2 g
+        - 50%
+
+    zinc:
+        - 1.6 mg
+        - 11%
+
+    copper:
+        - 135 ug
+        - 7%
+
+    manganese:
+        - 133 ug
+        - 0%
+
+    selenium:
+        - 20 ug
+        - 0%
+
+    fluoride:
+        - 0 ug
+        - 0%
+
+amino acids:
+    proteins:
+        - 17 g
+        - 0%
+
+    tryptophan:
+        - 181 mg
+        - 0%
+
+    threonine:
+        - 717 mg
+        - 0%
+
+    isoleucine:
+        - 703 mg
+        - 0%
+
+    leucine:
+        - 1.3 g
+        - 0%
+
+    lysine:
+        - 1.4 g
+        - 0%
+
+    methionine:
+        - 425 mg
+        - 0%
+
+    cystine:
+        - 208 mg
+        - 0%
+
+    phenylalanine:
+        - 649 mg
+        - 0%
+
+    tyrosine:
+        - 530 mg
+        - 0%
+
+    valine:
+        - 744 mg
+        - 0%
+
+    arginine:
+        - 1 g
+        - 0%
+
+    histidine:
+        - 603 mg
+        - 0%
+
+    alanine:
+        - 934 mg
+        - 0%
+
+    aspartic acid:
+        - 1.5 g
+        - 0%
+
+    glutamic acid:
+        - 2.4 g
+        - 0%
+
+    glycine:
+        - 839 mg
+        - 0%
+
+    proline:
+        - 692 mg
+        - 0%
+
+    serine:
+        - 654 mg
+        - 0%
+
+    hydroxyproline:
+        - 40 mg
+        - 0%
+
