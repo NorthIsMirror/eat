@@ -181,12 +181,9 @@ if( -e ".history" ) {
 }
 
 while ( defined ($_ = $term->readline($prompt)) ) {
-    # Append to history if not immediate duplicate
-    my @last_four = @history[ $#history - 3 .. $#history ];
-    if( not $_ ~~ @last_four ) {
-        $term->addhistory($_) if /\S/ and $_ ne "q";
-        push @history, $_ if /\S/ and $_ ne "q";
-    }
+    # Append to history
+    $term->addhistory($_) if /\S/ and $_ ne "q";
+    push @history, $_ if /\S/ and $_ ne "q";
 
     # Exit on "q" 
     last if $_ eq "q";
