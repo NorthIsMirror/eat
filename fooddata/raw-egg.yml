@@ -1,7 +1,7 @@
 # Should verify beta-tocophreol etc. if they aren't included in vitamin E
 
 ---
-name: Egg
+name: Raw Egg
 vitamins:
     A:
         - 176 ug

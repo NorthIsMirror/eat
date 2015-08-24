@@ -47,22 +47,30 @@ closedir(D);
 # Aliases for the foods
 my %aliases = (
     "Millet" => "Raw Millet",
+
     "Lentils" => "Raw Lentils",
     "Lentil" => "Raw Lentils",
-    "Raw Buckwheat" => "Buckwheat",
-    "Buck" => "Buckwheat",
-    "Eggs" => "Egg",
-    "Chicken Egg" => "Egg",
-    "Chicken Eggs" => "Egg",
-    "Sunflower" => "Sunflower Seeds (kernel)",
+
+    "Buckwheat" => "Raw Buckwheat",
+    "Buck" => "Raw Buckwheat",
+
+    "Egg" => "Raw Egg",
+    "Eggs" => "Raw Egg",
+    "Chicken Egg" => "Raw Egg",
+    "Chicken Eggs" => "Raw Egg",
+
+    "Sunflower" => "Raw Sunflower Seeds [kernel]",
+    "Sunflower Seeds" => "Raw Sunflower Seeds [kernel]",
+    "Raw Sunflower" => "Raw Sunflower Seeds [kernel]",
+    "Raw Sunflower Seeds" => "Raw Sunflower Seeds [kernel]",
 
     # Include the direct names
     "Ham" => "Ham",
     "Raw Millet" => "Raw Millet",
     "Raw Lentils" => "Raw Lentils",
-    "Buckwheat" => "Buckwheat",
-    "Egg" => "Egg",
-    "Sunflower Seeds (kernel)" => "Sunflower Seeds (kernel)",
+    "Raw Buckwheat" => "Raw Buckwheat",
+    "Raw Egg" => "Raw Egg",
+    "Raw Sunflower Seeds [kernel]" => "Raw Sunflower Seeds [kernel]",
 );
 
 # Structure of what to look for

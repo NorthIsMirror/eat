@@ -216,7 +216,7 @@ sub init {
                                             }
                                         }
 
-        number_unit_name: /([-+]?\d+)(\.\d+)?\s*(g|mg)\s+([a-zA-Z ]+)/	{
+        number_unit_name: /([-+]?\d+)(\.\d+)?\s*(g|mg)\s+([a-zA-Z\[\] ]+)/	{
                                                     sub { 
                                                         $item[1] =~ /([-+]?\d+)(\.\d+)?\s*(g|mg)\s+([a-zA-Z ]+)/;
                                                         my $number = $1 . $2;
