@@ -60,6 +60,8 @@ my %aliases = (
     "Chicken Egg" => "Raw Egg",
     "Chicken Eggs" => "Raw Egg",
 
+    "Bread" => "Wheat Bread",
+
     "Sunflower" => "Raw Sunflower Seeds [kernel]",
     "Sunflower Seeds" => "Raw Sunflower Seeds [kernel]",
     "Raw Sunflower" => "Raw Sunflower Seeds [kernel]",
@@ -72,6 +74,7 @@ my %aliases = (
     "Raw Buckwheat" => "Raw Buckwheat",
     "Raw Egg" => "Raw Egg",
     "Raw Sunflower Seeds [kernel]" => "Raw Sunflower Seeds [kernel]",
+    "Wheat Bread" => "Wheat Bread",
 );
 
 # Structure of what to look for
