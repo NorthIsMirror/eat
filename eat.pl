@@ -45,6 +45,7 @@ my @files = grep { /\.yml$/ } readdir(D);
 closedir(D);
 
 # Aliases for the foods
+# Have to be capitalized
 my %aliases = (
     "Millet" => "Raw Millet",
 
